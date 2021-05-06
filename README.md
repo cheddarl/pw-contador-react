@@ -1,2 +1,2 @@
 # pw-contador-react
-Exemplo de componentização em aplicações React
+Exemplo de componentização em aplicações Reactt
